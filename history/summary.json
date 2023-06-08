@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker-silver-river.onrender.com.ico",
     "slug": "silver-river",
     "status": "down",
-    "uptime": "44.06%",
-    "uptimeDay": "44.06%",
-    "uptimeWeek": "44.06%",
-    "uptimeMonth": "44.06%",
-    "uptimeYear": "44.06%",
+    "uptime": "21.54%",
+    "uptimeDay": "21.54%",
+    "uptimeWeek": "21.54%",
+    "uptimeMonth": "21.54%",
+    "uptimeYear": "21.54%",
     "time": 322,
     "timeDay": 322,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2023-06-07": 27
+      "2023-06-08": 3,
+      "2023-06-07": 74
     }
   }
 ]
